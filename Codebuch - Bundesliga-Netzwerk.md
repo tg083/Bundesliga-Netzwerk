@@ -62,7 +62,7 @@ Bei Spielern: Verein, von dem der Spieler den Sprung in den Herrenbereich gescha
 Bei Vereinen: dieselbe Bezeichnung, um sie mit den Spielerknoten anzeigen zu lassen
 
 **debut**   
-Bei Spielern: Verein, bei dem der Spieler sein Profidebut gegeben hat
+Bei Spielern: Verein, bei dem der Spieler sein Profidebut gegeben hat	
 Bei Vereinen: dieselbe Bezeichnung, um sie mit den Spielerknoten anzeigen zu lassen
 
 **nation**    
